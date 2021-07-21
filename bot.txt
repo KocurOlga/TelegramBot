@@ -1,0 +1,6 @@
+gmclinic_analizy
+gmclinic_analizy_bot
+
+Use this token to access the HTTP API:
+1915907677:AAGZj_C1WlL3z_vXZctVdQpJ3EJFMFQNgWY
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
